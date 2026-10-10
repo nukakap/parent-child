@@ -1,0 +1,20 @@
+.parent{
+padding: 0;
+box-sizing: border-box;
+display: flex;
+flex-direction: column;
+gap: 10px;
+width: 80px;
+margin: 0 auto;
+border: 1px solid pink;
+margin-top: 60px;
+justify-content: flex-end;
+align-items: center;
+
+}
+
+.child{
+    background-color: rgb(60, 158, 158);
+    border: 2px solid brown; 
+
+}
